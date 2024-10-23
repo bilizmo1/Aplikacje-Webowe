@@ -1,0 +1,2 @@
+# test
+Testujemy ustawienia gita
