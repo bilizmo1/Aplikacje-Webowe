@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    
+    table{
+        width: 50%;
+        border: 1px solid black;
+        border-collapse: collapse;
+    
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+    
+    
+    
+    }
+
+}
+
+
